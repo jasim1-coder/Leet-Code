@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jasim1-coder/Leet-Code/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/0415-add-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/jasim1-coder/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jasim1-coder/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jasim1-coder/Leet-Code/tree/master/0389-find-the-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/jasim1-coder/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Queue
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/jasim1-coder/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sorting
 |  |
 | ------- |
