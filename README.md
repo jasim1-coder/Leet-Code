@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jasim1-coder/Leet-Code/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/0415-add-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
