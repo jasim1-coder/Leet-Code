@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jasim1-coder/Leet-Code/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/0415-add-strings) |
 ## Simulation
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/jasim1-coder/Leet-Code/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
