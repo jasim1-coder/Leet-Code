@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/jasim1-coder/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jasim1-coder/Leet-Code/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jasim1-coder/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jasim1-coder/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jasim1-coder/Leet-Code/tree/master/0389-find-the-difference) |
@@ -44,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jasim1-coder/Leet-Code/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasim1-coder/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jasim1-coder/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jasim1-coder/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/jasim1-coder/Leet-Code/tree/master/0389-find-the-difference) |
 ## Math
@@ -68,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jasim1-coder/Leet-Code/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jasim1-coder/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
