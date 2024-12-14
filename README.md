@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/jasim1-coder/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/jasim1-coder/Leet-Code/tree/master/0648-replace-words) |
 ## Bit Manipulation
 |  |
