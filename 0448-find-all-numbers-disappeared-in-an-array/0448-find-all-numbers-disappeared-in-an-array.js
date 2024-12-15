@@ -13,7 +13,7 @@
 
 var findDisappearedNumbers = function(nums) {
     const n = nums.length;
-    const numSet = new Set(nums); // Create a set from the array to store unique elements
+    const numSet = new Set(nums); 
     return Array.from({ length: n }, (_, i) => i + 1).filter(num => !numSet.has(num));
 };
 
