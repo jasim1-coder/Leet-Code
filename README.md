@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasim1-coder/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/jasim1-coder/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jasim1-coder/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0941-sort-array-by-parity](https://github.com/jasim1-coder/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jasim1-coder/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/jasim1-coder/Leet-Code/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/jasim1-coder/Leet-Code/tree/master/0682-baseball-game) |
+| [0941-sort-array-by-parity](https://github.com/jasim1-coder/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/jasim1-coder/Leet-Code/tree/master/1137-height-checker) |
 | [1524-string-matching-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1524-string-matching-in-an-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jasim1-coder/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/jasim1-coder/Leet-Code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0414-third-maximum-number) |
+| [0941-sort-array-by-parity](https://github.com/jasim1-coder/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/jasim1-coder/Leet-Code/tree/master/1137-height-checker) |
 ## Math
