@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/jasim1-coder/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/jasim1-coder/Leet-Code/tree/master/1137-height-checker) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/jasim1-coder/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jasim1-coder/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jasim1-coder/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/0415-add-strings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/jasim1-coder/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/jasim1-coder/Leet-Code/tree/master/2383-add-two-integers) |
 | [3371-harshad-number](https://github.com/jasim1-coder/Leet-Code/tree/master/3371-harshad-number) |
 ## Simulation
