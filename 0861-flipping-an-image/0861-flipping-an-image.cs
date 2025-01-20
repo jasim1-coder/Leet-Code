@@ -6,7 +6,7 @@ public class Solution {
             for(int j = 0 ; j < image[i].Count() ; j++){
                 if(image[i][j] == 0){
                     image[i][j] = 1 ;
-                }else if(image[i][j] == 1){
+                }else{
                     image[i][j] = 0 ;
                 }
             }
