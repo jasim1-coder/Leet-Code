@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jasim1-coder/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/jasim1-coder/Leet-Code/tree/master/2383-add-two-integers) |
 | [3371-harshad-number](https://github.com/jasim1-coder/Leet-Code/tree/master/3371-harshad-number) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/jasim1-coder/Leet-Code/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/jasim1-coder/Leet-Code/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/jasim1-coder/Leet-Code/tree/master/0861-flipping-an-image) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/jasim1-coder/Leet-Code/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jasim1-coder/Leet-Code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/jasim1-coder/Leet-Code/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jasim1-coder/Leet-Code/tree/master/1908-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/jasim1-coder/Leet-Code/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
