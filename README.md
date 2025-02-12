@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/jasim1-coder/Leet-Code/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/jasim1-coder/Leet-Code/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/jasim1-coder/Leet-Code/tree/master/1153-product-sales-analysis-i) |
+| [1179-game-play-analysis-i](https://github.com/jasim1-coder/Leet-Code/tree/master/1179-game-play-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jasim1-coder/Leet-Code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jasim1-coder/Leet-Code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/jasim1-coder/Leet-Code/tree/master/1827-invalid-tweets) |
