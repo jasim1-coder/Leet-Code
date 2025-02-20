@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jasim1-coder/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/jasim1-coder/Leet-Code/tree/master/1944-truncate-sentence) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jasim1-coder/Leet-Code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jasim1-coder/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Array
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jasim1-coder/Leet-Code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Matrix
 |  |
 | ------- |
