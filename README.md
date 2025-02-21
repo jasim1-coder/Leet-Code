@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/jasim1-coder/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jasim1-coder/Leet-Code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jasim1-coder/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Array
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/jasim1-coder/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/jasim1-coder/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jasim1-coder/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Bit Manipulation
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/jasim1-coder/Leet-Code/tree/master/0648-replace-words) |
 | [0782-jewels-and-stones](https://github.com/jasim1-coder/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasim1-coder/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/jasim1-coder/Leet-Code/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/jasim1-coder/Leet-Code/tree/master/0861-flipping-an-image) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/jasim1-coder/Leet-Code/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Binary Search
 |  |
