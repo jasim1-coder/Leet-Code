@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/jasim1-coder/Leet-Code/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/jasim1-coder/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasim1-coder/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1205-defanging-an-ip-address](https://github.com/jasim1-coder/Leet-Code/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1524-string-matching-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1651-shuffle-string) |
