@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/jasim1-coder/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/jasim1-coder/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
+| [2128-reverse-prefix-of-word](https://github.com/jasim1-coder/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jasim1-coder/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/jasim1-coder/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jasim1-coder/Leet-Code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2128-reverse-prefix-of-word](https://github.com/jasim1-coder/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jasim1-coder/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/jasim1-coder/Leet-Code/tree/master/0682-baseball-game) |
+| [2128-reverse-prefix-of-word](https://github.com/jasim1-coder/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 ## Database
 |  |
 | ------- |
