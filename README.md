@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jasim1-coder/Leet-Code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2128-reverse-prefix-of-word](https://github.com/jasim1-coder/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jasim1-coder/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Array
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/jasim1-coder/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/jasim1-coder/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jasim1-coder/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Bit Manipulation
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/jasim1-coder/Leet-Code/tree/master/0648-replace-words) |
 | [0782-jewels-and-stones](https://github.com/jasim1-coder/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasim1-coder/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Queue
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasim1-coder/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sorting
 |  |
 | ------- |
