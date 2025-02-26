@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/jasim1-coder/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jasim1-coder/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jasim1-coder/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Array
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/jasim1-coder/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jasim1-coder/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jasim1-coder/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Bit Manipulation
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jasim1-coder/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Stack
 |  |
 | ------- |
