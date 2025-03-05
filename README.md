@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/jasim1-coder/Leet-Code/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jasim1-coder/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/jasim1-coder/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jasim1-coder/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/jasim1-coder/Leet-Code/tree/master/3194-find-words-containing-character) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jasim1-coder/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/jasim1-coder/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/jasim1-coder/Leet-Code/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/jasim1-coder/Leet-Code/tree/master/3194-find-words-containing-character) |
