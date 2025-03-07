@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jasim1-coder/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jasim1-coder/Leet-Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1524-string-matching-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/jasim1-coder/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jasim1-coder/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/jasim1-coder/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
