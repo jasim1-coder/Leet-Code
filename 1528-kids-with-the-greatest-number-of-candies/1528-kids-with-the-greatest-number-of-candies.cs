@@ -1,0 +1,14 @@
+public class Solution {
+    public IList<bool> KidsWithCandies(int[] candies, int extraCandies) {
+        List<bool> result = new List<bool>();
+        int max = candies.Max();
+        for(int i = 0 ; i < candies.Count();i++){
+            if(candies[i] + extraCandies >= max){
+                result.Add(true);
+            }else{
+                result.Add(false);
+            }
+        }
+        return result;
+    }
+}
