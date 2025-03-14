@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jasim1-coder/Leet-Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jasim1-coder/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1904-second-largest-digit-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1904-second-largest-digit-in-a-string) |
 | [1944-truncate-sentence](https://github.com/jasim1-coder/Leet-Code/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jasim1-coder/Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jasim1-coder/Leet-Code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/jasim1-coder/Leet-Code/tree/master/0648-replace-words) |
 | [0782-jewels-and-stones](https://github.com/jasim1-coder/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasim1-coder/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1904-second-largest-digit-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jasim1-coder/Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jasim1-coder/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
