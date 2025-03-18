@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jasim1-coder/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/jasim1-coder/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jasim1-coder/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/jasim1-coder/Leet-Code/tree/master/2383-add-two-integers) |
 | [3371-harshad-number](https://github.com/jasim1-coder/Leet-Code/tree/master/3371-harshad-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/jasim1-coder/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/jasim1-coder/Leet-Code/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/jasim1-coder/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -290,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/jasim1-coder/Leet-Code/tree/master/2844-sum-of-squares-of-special-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/jasim1-coder/Leet-Code/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/jasim1-coder/Leet-Code/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
