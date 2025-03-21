@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/jasim1-coder/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jasim1-coder/Leet-Code/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/jasim1-coder/Leet-Code/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/jasim1-coder/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jasim1-coder/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/jasim1-coder/Leet-Code/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/jasim1-coder/Leet-Code/tree/master/2481-strictly-palindromic-number) |
 | [3371-harshad-number](https://github.com/jasim1-coder/Leet-Code/tree/master/3371-harshad-number) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/jasim1-coder/Leet-Code/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Simulation
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/jasim1-coder/Leet-Code/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/jasim1-coder/Leet-Code/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
