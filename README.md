@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/jasim1-coder/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jasim1-coder/Leet-Code/tree/master/0383-ransom-note) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jasim1-coder/Leet-Code/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/jasim1-coder/Leet-Code/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jasim1-coder/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0268-missing-number) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jasim1-coder/Leet-Code/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jasim1-coder/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0268-missing-number) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0179-largest-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jasim1-coder/Leet-Code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Matrix
