@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jasim1-coder/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/jasim1-coder/Leet-Code/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jasim1-coder/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/jasim1-coder/Leet-Code/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/jasim1-coder/Leet-Code/tree/master/0682-baseball-game) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jasim1-coder/Leet-Code/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/jasim1-coder/Leet-Code/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jasim1-coder/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/jasim1-coder/Leet-Code/tree/master/0648-replace-words) |
 | [0782-jewels-and-stones](https://github.com/jasim1-coder/Leet-Code/tree/master/0782-jewels-and-stones) |
