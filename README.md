@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jasim1-coder/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/jasim1-coder/Leet-Code/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/jasim1-coder/Leet-Code/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/jasim1-coder/Leet-Code/tree/master/0861-flipping-an-image) |
 ## Hash Table
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jasim1-coder/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/jasim1-coder/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/jasim1-coder/Leet-Code/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/jasim1-coder/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jasim1-coder/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/jasim1-coder/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/jasim1-coder/Leet-Code/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/jasim1-coder/Leet-Code/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/jasim1-coder/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
