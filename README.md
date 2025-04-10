@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/jasim1-coder/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/jasim1-coder/Leet-Code/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/jasim1-coder/Leet-Code/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jasim1-coder/Leet-Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
