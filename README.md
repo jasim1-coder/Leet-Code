@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jasim1-coder/Leet-Code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/jasim1-coder/Leet-Code/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jasim1-coder/Leet-Code/tree/master/1908-recyclable-and-low-fat-products) |
+| [2110-employees-with-missing-information](https://github.com/jasim1-coder/Leet-Code/tree/master/2110-employees-with-missing-information) |
 ## Game Theory
 |  |
 | ------- |
