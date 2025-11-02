@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jasim1-coder/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/jasim1-coder/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jasim1-coder/Leet-Code/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/jasim1-coder/Leet-Code/tree/master/0169-majority-element) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jasim1-coder/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jasim1-coder/Leet-Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jasim1-coder/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jasim1-coder/Leet-Code/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/jasim1-coder/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
