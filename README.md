@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jasim1-coder/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/jasim1-coder/Leet-Code/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jasim1-coder/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/jasim1-coder/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/jasim1-coder/Leet-Code/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/jasim1-coder/Leet-Code/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/jasim1-coder/Leet-Code/tree/master/0861-flipping-an-image) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jasim1-coder/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jasim1-coder/Leet-Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jasim1-coder/Leet-Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
