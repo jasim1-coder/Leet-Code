@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jasim1-coder/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/jasim1-coder/Leet-Code/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jasim1-coder/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/jasim1-coder/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jasim1-coder/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jasim1-coder/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jasim1-coder/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jasim1-coder/Leet-Code/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jasim1-coder/Leet-Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
