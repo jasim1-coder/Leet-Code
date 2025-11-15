@@ -12,7 +12,7 @@ public class Solution {
             if((middle % 2 != 0 && nums[middle - 1] == nums[middle]) || (middle % 2 == 0 && nums[middle] == nums[middle + 1])){
                 low = middle + 1;
             }else{
-                high = middle -1 ;
+                high = middle  ;
             }
         }
         return -1;
