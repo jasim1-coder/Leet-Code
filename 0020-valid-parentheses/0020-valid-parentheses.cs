@@ -16,7 +16,7 @@ public class Solution {
                 
             }
         }
-        int result = stackstore.Count();
-        return result == 0;
+        return stackstore.Count() == 0 ;
+         
     }
 }
