@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jasim1-coder/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/jasim1-coder/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jasim1-coder/Leet-Code/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/jasim1-coder/Leet-Code/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jasim1-coder/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jasim1-coder/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/jasim1-coder/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jasim1-coder/Leet-Code/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/jasim1-coder/Leet-Code/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jasim1-coder/Leet-Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/jasim1-coder/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
@@ -365,4 +367,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jasim1-coder/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jasim1-coder/Leet-Code/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
