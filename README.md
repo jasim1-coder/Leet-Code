@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/jasim1-coder/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/jasim1-coder/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/jasim1-coder/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jasim1-coder/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jasim1-coder/Leet-Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jasim1-coder/Leet-Code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/jasim1-coder/Leet-Code/tree/master/2481-strictly-palindromic-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/jasim1-coder/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jasim1-coder/Leet-Code/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jasim1-coder/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/jasim1-coder/Leet-Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jasim1-coder/Leet-Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jasim1-coder/Leet-Code/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/jasim1-coder/Leet-Code/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/jasim1-coder/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jasim1-coder/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jasim1-coder/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jasim1-coder/Leet-Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jasim1-coder/Leet-Code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
