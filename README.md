@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jasim1-coder/Leet-Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jasim1-coder/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1903-largest-odd-number-in-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1904-second-largest-digit-in-a-string) |
 | [1944-truncate-sentence](https://github.com/jasim1-coder/Leet-Code/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/jasim1-coder/Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/jasim1-coder/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jasim1-coder/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/jasim1-coder/Leet-Code/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/jasim1-coder/Leet-Code/tree/master/2481-strictly-palindromic-number) |
 | [3371-harshad-number](https://github.com/jasim1-coder/Leet-Code/tree/master/3371-harshad-number) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jasim1-coder/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0179-largest-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/jasim1-coder/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/jasim1-coder/Leet-Code/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Matrix
 |  |
