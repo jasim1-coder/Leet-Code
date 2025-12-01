@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jasim1-coder/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jasim1-coder/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/jasim1-coder/Leet-Code/tree/master/0383-ransom-note) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jasim1-coder/Leet-Code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/jasim1-coder/Leet-Code/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/jasim1-coder/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jasim1-coder/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jasim1-coder/Leet-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jasim1-coder/Leet-Code/tree/master/0347-top-k-frequent-elements) |
