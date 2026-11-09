@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/jasim1-coder/Leet-Code/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/jasim1-coder/Leet-Code/tree/master/1693-daily-leads-and-partners) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jasim1-coder/Leet-Code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1729-find-followers-count](https://github.com/jasim1-coder/Leet-Code/tree/master/1729-find-followers-count) |
 | [1827-invalid-tweets](https://github.com/jasim1-coder/Leet-Code/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jasim1-coder/Leet-Code/tree/master/1908-recyclable-and-low-fat-products) |
 | [2110-employees-with-missing-information](https://github.com/jasim1-coder/Leet-Code/tree/master/2110-employees-with-missing-information) |
