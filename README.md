@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/jasim1-coder/Leet-Code/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/jasim1-coder/Leet-Code/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/jasim1-coder/Leet-Code/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/jasim1-coder/Leet-Code/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/jasim1-coder/Leet-Code/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/jasim1-coder/Leet-Code/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/jasim1-coder/Leet-Code/tree/master/0627-swap-salary) |
